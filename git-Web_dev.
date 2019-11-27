@@ -1,0 +1,19 @@
+# Cloning a repo from github into ur computer.
+1) git clone <file>
+
+# creating a file into the empty repo using terminal command touch
+2) touch <file>
+
+# Opening a text editor.
+3) (atom .) 
+
+# telling git to keep track of a specific file.
+4) git add <file>
+
+# Commiting the file as a change into the empty repo with a msg saying the description of what is new.
+5) git commit -m "WHAT IS NEW"
+
+# check the current status of what is going on inside the repo before pushing it to github.
+6) git status
+# pushing the committed changes to github.
+7) git push
