@@ -1,0 +1,26 @@
+1) There are tags in an html code and each tag has different types of attributes.
+
+# For the height and width attributes in an image.
+2) I could say that the width is 50 % and the web browser will be smart about it and whenever the browser size is dec. or inc.
+it stays 50 % of that browser
+
+3) We can use css style attribute on html tags.
+OR
+4) We can create a style tag inside the head tag in the html page defining the style of any of my html page tags.
+OR
+5) If i have multiple html pages that I want to have the same style i could simply create a .css file with the style of all
+html tags, then add a reference to that file from all of the html <head> tag
+
+6) <div> has no particular meaning just a tag that takes a section of my page that i want to do some sort of styling to.
+
+7) You can apply css styling to multiple html tags at the same time(th, td{write ur styling attributes}).
+
+8) You can use span tag inside a div tag to style a specific part in the div.
+
+9) you can use id attribute in a tag if u want to style it alone in a specific way and then use "#" before the id in the style tag.
+
+10) you can use class attribute to define multiple tags the same class to style the same way.
+
+11) you can use both class and id on the same html tag.
+
+12) you can use github pages to deploy your html page to a url that anyone in the internet can use.
