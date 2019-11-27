@@ -15,5 +15,21 @@
 
 # check the current status of what is going on inside the repo before pushing it to github.
 6) git status
+
 # pushing the committed changes to github.
 7) git push
+
+# pull any changes from the repo in github.
+8) git pull
+
+# Fixing merging conflicts.
+# If the code in github is different from the code on ur computer.
+# and u try to pull the code from github there will be a merge conflict.
+
+# Check the history of all commits to the repository.
+9) git log
+
+
+# Reset to an older version of ur repo.
+10) get reset --hard <Commit hash from gitlog>
+
